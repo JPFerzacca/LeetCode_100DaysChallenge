@@ -9,4 +9,6 @@ Today I practiced with GitHub by commiting,pushing and pulling directories and f
 Missed a day
 
 ### Day 3 - 06/16/2023
-Today I practiced with a simple LeetCode FizzBuzz - Given an integer n, return a string array answer (1-indexed) where:
+Today I practiced with a few simple LeetCode Challenges
+    FizzBuzz - Given an integer n, return a string array answer (1-indexed) where:
+    1342. Number of Steps to Reduce a Number to Zero - Given an integer num, return the number of steps to reduce it to zero.

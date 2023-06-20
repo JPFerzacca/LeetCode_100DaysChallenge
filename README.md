@@ -21,4 +21,7 @@ Today I finished the LeetCode Solving your first problems section.
 Missed a day
 
 ### Day 6 - 06/19/2023
+Today I finished the LeetCode #9 Palidrome Number 
+    - Given an integer x, return true if x is a palindrome, and false otherwise.
+
 

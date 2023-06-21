@@ -21,7 +21,13 @@ Today I finished the LeetCode Solving your first problems section.  <br>
 Missed a day
 
 ### Day 6 - 06/19/2023
+Missed a day
+
+### Day 7 - 06/20/2023
 Today I finished the LeetCode #9 Palidrome Number  <br>
 ⋅⋅⋅ - Given an integer x, return true if x is a palindrome, and false otherwise.
+
+### Day 8 - 06/19/2023
+Plan: Today I will work on #13 RRoman Integer
 
 
